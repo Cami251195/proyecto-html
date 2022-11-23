@@ -1,0 +1,21 @@
+
+body{
+     background-image: url("fondo2.png");
+    
+    }
+
+
+.fondo{
+    background-color: rgba(243, 228, 168, 0.23);
+}
+
+.pie{
+    background-color: rgba(242, 108, 231, 0.311);
+    text-align: center;
+   
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+}
+
