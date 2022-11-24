@@ -1,12 +1,9 @@
 
-body{
-     background-image: url("fondo2.png");
-    
-    }
-
 
 .fondo{
     background-color: rgba(243, 228, 168, 0.23);
+    background-image: url("fondo2.png");
+     max-width: 100%;
 }
 
 .pie{
